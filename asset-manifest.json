@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/Travel-Journal/static/js/main.8cd68230.js",
+    "main.js": "/Travel-Journal/static/js/main.6a3422b7.js",
+    "static/media/cancun.jpg": "/Travel-Journal/static/media/cancun.ef263cf2053ab4277a7a.jpg",
     "index.html": "/Travel-Journal/index.html",
-    "main.8cd68230.js.map": "/Travel-Journal/static/js/main.8cd68230.js.map"
+    "main.6a3422b7.js.map": "/Travel-Journal/static/js/main.6a3422b7.js.map"
   },
   "entrypoints": [
-    "static/js/main.8cd68230.js"
+    "static/js/main.6a3422b7.js"
   ]
 }
