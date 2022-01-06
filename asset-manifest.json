@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.js": "/Travel-Journal/static/js/main.6a3422b7.js",
+    "main.js": "/Travel-Journal/static/js/main.2155e5c5.js",
     "static/media/cancun.jpg": "/Travel-Journal/static/media/cancun.ef263cf2053ab4277a7a.jpg",
+    "static/media/USO.JPG": "/Travel-Journal/static/media/USO.0b5d7958f3aedad5d111.JPG",
+    "static/media/islaMujeres.jpeg": "/Travel-Journal/static/media/islaMujeres.3fac767e3c6e21d5d85a.jpeg",
     "index.html": "/Travel-Journal/index.html",
-    "main.6a3422b7.js.map": "/Travel-Journal/static/js/main.6a3422b7.js.map"
+    "main.2155e5c5.js.map": "/Travel-Journal/static/js/main.2155e5c5.js.map"
   },
   "entrypoints": [
-    "static/js/main.6a3422b7.js"
+    "static/js/main.2155e5c5.js"
   ]
 }
