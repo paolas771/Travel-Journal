@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  font-family: Inter, sans-serif;
+}
+.navBar{
+  display: flex;
+  background: #f55a5a;
+  color: #ffffff;
+  justify-content: center;
+  align-items: center;
+}
+.world{
+  width: 50px;
+}
+.navBar h3{
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.075em;
+}
+.tripMainDiv{
+  display: flex;
+  width: 470px;
+  margin: 50px 41px 36px 41px;
+}
+.tripInfo{
+  margin-left: 20px;
+}
+.location{
+  margin: 0;
+  padding-right: 12px;
+  font-size: 10px;
+  letter-spacing: 0.17em;
+}
+.url{
+  font-size: 10px;
+  color: #918e9b;
+  
+}
+.tripLocation{
+  display: flex;
+  align-items: center;
+  margin-bottom: 7px;
+  margin-left: -5px;
+}
+.title{
+  font-size: 25px;
+  color: #2b283a;
+  margin-top: 0;
+}
+.date{
+  font-weight: 700;
+  font-size: 10px;
+  color: #2b283a;
+  margin-top: 17px;
+}
+.description{
+  margin-top: 9px;
+  font-size: 10px;
+  line-height: 15px;
+}
+.image{
+  border-radius: 5px;
+  width: 125px;
+  height: 168px;
+}
