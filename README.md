@@ -6,7 +6,7 @@ Using React I created a travel journal
 
 ### Requirements
 
-- Data arrya in a seperate .js file
+- Data arrays in a seperate .js file
 - Use .map() and props
 - Styled and polished
 
