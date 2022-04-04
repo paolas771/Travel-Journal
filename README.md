@@ -10,11 +10,11 @@ Using React I created a travel journal
 - Use .map() and props
 - Styled and polished
 
-###Links
+### Links
 - Solution URL: https://github.com/paolas771/Travel-Journal/tree/gh-pages
 - Live Site URL: https://paolas771.github.io/Travel-Journal/
 
-##My Process
+## My Process
 
 ## Built with
 
